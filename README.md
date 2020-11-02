@@ -1,6 +1,6 @@
 # TandemTrivia
 
-This project must be opened in Xcode. You should be able to simply clone a new project and upload the ssh key
+This project must be opened in Xcode. You should be able to simply clone a new project and use the ssh provided by github.
 
 Admittedly, the code could be cleaned up a good amount. Most of the code in my fetchData function should be modularized so it doesn't look as messy. 
 However, the code runs well and I believe everything works as expected.
